@@ -1,0 +1,15 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.gooner10.okcupid.ui.Fragments.SearchFragment">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerViewMovie"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tab RecyclerView">
+
+    </android.support.v7.widget.RecyclerView>
+
+</FrameLayout>
